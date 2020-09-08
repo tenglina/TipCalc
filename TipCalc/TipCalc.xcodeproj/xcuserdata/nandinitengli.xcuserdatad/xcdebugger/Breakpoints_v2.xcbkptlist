@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1CCEE22D-75BF-44C6-BA0F-B17A9067C268"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B4962E1-1011-4ADE-AE18-E8E55E5D7CF5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipCalc/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "4B4962E1-1011-4ADE-AE18-E8E55E5D7CF5 - ca06a053e640f02f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalc.ViewController.TipPercentageControl.getter : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "TipCalc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinitengli/Desktop/IOSCodepath/TipCalc/TipCalc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "4B4962E1-1011-4ADE-AE18-E8E55E5D7CF5 - 46ee2d7006fad813"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalc.ViewController.TipPercentageControl.setter : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "TipCalc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinitengli/Desktop/IOSCodepath/TipCalc/TipCalc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "4B4962E1-1011-4ADE-AE18-E8E55E5D7CF5 - deee6f0426377e22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalc.ViewController.TipPercentageControl.modify : Swift.Optional&lt;__C.UISegmentedControl&gt;"
+                  moduleName = "TipCalc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinitengli/Desktop/IOSCodepath/TipCalc/TipCalc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "4B4962E1-1011-4ADE-AE18-E8E55E5D7CF5 - 45a97e1c4ed92ce1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalc.ViewController.TipPercentageControl.modify : Swift.Optional&lt;__C.UISegmentedControl&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TipCalc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinitengli/Desktop/IOSCodepath/TipCalc/TipCalc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "4B4962E1-1011-4ADE-AE18-E8E55E5D7CF5 - 49cd0dcb7f041bbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalc.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TipCalc.ViewController"
+                  moduleName = "TipCalc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinitengli/Desktop/IOSCodepath/TipCalc/TipCalc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "485">
+               </Location>
+               <Location
+                  uuid = "4B4962E1-1011-4ADE-AE18-E8E55E5D7CF5 - 594df985871e46c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipCalc.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TipCalc.ViewController&gt;"
+                  moduleName = "TipCalc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nandinitengli/Desktop/IOSCodepath/TipCalc/TipCalc/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "426">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
